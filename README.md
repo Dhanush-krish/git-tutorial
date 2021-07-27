@@ -9,7 +9,8 @@ Cheat Sheet
 Git - History
     git log : shows all the commit
     git log --oneline: show the commit id and commit message
-    git log --graph shows graphical representation of commit
+    git log --graph: shows graphical representation of commit
+    git log --oneline --graph --all: graphical representation of all the branches
     git log -p: Prints full details of each commit
     git log --grep-reflog=<pattern>: Shows the list of commits when commit message matches regular expression pattern
     git log --follow ./path/to/filename: Shows the history for the current file
