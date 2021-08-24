@@ -27,4 +27,5 @@ Git - Branch
     git branch -m <old_name> <nem_name>: renaming local branch
     git push :<old_name> <new_name>:  renaming remote branch
     git branch -d <branch_name>: deleting local branch
+    git branch -D <branch_name>: forcefully deleting a branch
     git push origin -d <branch_name>: deleting remote branch
