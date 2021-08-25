@@ -1,3 +1,4 @@
+
 Learning git basics
 
 Git Visualizer : https://git-school.github.io/visualizing-git/
@@ -29,3 +30,4 @@ Git - Branch
     git branch -d <branch_name>: deleting local branch
     git branch -D <branch_name>: forcefully deleting a branch
     git push origin -d <branch_name>: deleting remote branch
+
